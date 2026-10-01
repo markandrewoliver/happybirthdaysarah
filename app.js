@@ -27,7 +27,6 @@
   L.control.zoom({ position: "topright" }).addTo(map);
 
   const dotIcon = (cls) => L.divIcon({ className: "", html: `<div class="place-dot ${cls}"></div>`, iconSize: [14, 14], iconAnchor: [7, 7] });
-  const travellerIcon = L.divIcon({ className: "", html: '<div class="traveller">❤️</div>', iconSize: [22, 22], iconAnchor: [11, 11] });
 
   const markers = {}; // one marker per place+wrap
   const segments = []; // segments[i] connects event i-1 -> i
@@ -100,7 +99,6 @@
   async function animateHop(i) {
     const path = arc(pts[i - 1], pts[i]);
     const line = L.polyline([path[0]], { color: "#c8553d", weight: 3, opacity: 0.85, dashArray: "1 7", lineCap: "round" }).addTo(map);
-    const traveller = L.marker(path[0], { icon: travellerIcon, interactive: false, zIndexOffset: 1000 }).addTo(map);
     const duration = reduceMotion ? 1 : Math.min(3400, 1300 + km(pts[i - 1], pts[i]) * 0.25);
     await new Promise((resolve) => {
       const start = performance.now();
@@ -109,12 +107,10 @@
         const eased = t < 0.5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2;
         const n = Math.max(1, Math.round(eased * (path.length - 1)));
         line.setLatLngs(path.slice(0, n + 1));
-        traveller.setLatLng(path[n]);
         t < 1 ? requestAnimationFrame(step) : resolve();
       }
       requestAnimationFrame(step);
     });
-    map.removeLayer(traveller);
     segments[i] = line;
   }
 
