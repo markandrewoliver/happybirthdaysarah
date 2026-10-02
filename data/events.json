@@ -540,6 +540,66 @@
     ]
   },
   {
+    "date": "2019-04-01",
+    "display": "April 1, 2019",
+    "place": "Grand Canyon National Park, Arizona, USA",
+    "lat": 36.06,
+    "lng": -112.14,
+    "label": "Our trip to the Grand Canyon.",
+    "images": [
+      "images/2019/grand-canyon-national-park-arizona-usa/0005-00000IMG_00000_BURST20190402113713726_COVER.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0001-IMG_20190402_091152.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0002-IMG_20190402_091403.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0003-00100dPORTRAIT_00100_BURST20190402092546811_COVER.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0004-00100dPORTRAIT_00100_BURST20190402092606937_COVER.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0006-IMG_20190402_115750.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0007-IMG_20190402_115944.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0008-00100dPORTRAIT_00100_BURST20190402120020881_COVER.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0009-IMG_20190402_122635.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0010-00100sPORTRAIT_00100_BURST20190402122806230_COVER.webp",
+      "images/2019/grand-canyon-national-park-arizona-usa/0011-IMG_20190402_122850.webp"
+    ]
+  },
+  {
+    "date": "2019-04-02",
+    "display": "April 2, 2019",
+    "place": "Hoover Dam, Arizona, USA",
+    "lat": 36.02,
+    "lng": -114.74,
+    "label": "The Hoover Dam.",
+    "images": [
+      "images/2019/hoover-dam-arizona-usa/0001-IMG_20190402_175827.webp",
+      "images/2019/hoover-dam-arizona-usa/0002-IMG_20190402_180134.webp",
+      "images/2019/hoover-dam-arizona-usa/0003-IMG_20190402_180234.webp",
+      "images/2019/hoover-dam-arizona-usa/0004-IMG_20190402_180246.webp",
+      "images/2019/las-vegas-nevada-usa/0002-QVZjRmNnYjlpUUlSM1E0Nw.webp"
+    ]
+  },
+  {
+    "date": "2019-04-03",
+    "display": "April 3, 2019",
+    "place": "Las Vegas, Nevada, USA",
+    "lat": 36.17,
+    "lng": -115.14,
+    "label": "Busking in Las Vegas.",
+    "images": [
+      "images/2019/las-vegas-nevada-usa/0015-00100dPORTRAIT_00100_BURST20190404120748082_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0001-IMG_20190402_182140.webp",
+      "images/2019/las-vegas-nevada-usa/0003-IMG_20190403_105659.webp",
+      "images/2019/las-vegas-nevada-usa/0004-00100dPORTRAIT_00100_BURST20190403112448845_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0006-00000IMG_00000_BURST20190403112529774_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0005-00100sPORTRAIT_00100_BURST20190403112510893_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0007-IMG_20190403_124257.webp",
+      "images/2019/las-vegas-nevada-usa/0008-IMG_20190403_124307.webp",
+      "images/2019/las-vegas-nevada-usa/0009-IMG_20190403_124455.webp",
+      "images/2019/las-vegas-nevada-usa/0010-MVIMG_20190403_130916.webp",
+      "images/2019/las-vegas-nevada-usa/0011-QVZmRnlHTE95RjFMLTJCYw.webp",
+      "images/2019/las-vegas-nevada-usa/0012-00100dPORTRAIT_00100_BURST20190403152849850_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0013-QVZlOTNkdUphLWRGc1hqZA.webp",
+      "images/2019/las-vegas-nevada-usa/0014-QVZlVHJXYU10MU56UUEwSQ.webp"
+    ]
+  },
+  {
     "date": "2019-09-21",
     "display": "September 2019",
     "place": "Jonesborough, Tennessee, USA",
