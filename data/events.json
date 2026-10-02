@@ -583,20 +583,21 @@
     "lng": -115.14,
     "label": "Busking in Las Vegas.",
     "images": [
-      "images/2019/las-vegas-nevada-usa/0015-00100dPORTRAIT_00100_BURST20190404120748082_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0016-00100dPORTRAIT_00100_BURST20190404120748082_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0007-IMG_0464.webp",
       "images/2019/las-vegas-nevada-usa/0001-IMG_20190402_182140.webp",
       "images/2019/las-vegas-nevada-usa/0003-IMG_20190403_105659.webp",
       "images/2019/las-vegas-nevada-usa/0004-00100dPORTRAIT_00100_BURST20190403112448845_COVER.webp",
       "images/2019/las-vegas-nevada-usa/0006-00000IMG_00000_BURST20190403112529774_COVER.webp",
       "images/2019/las-vegas-nevada-usa/0005-00100sPORTRAIT_00100_BURST20190403112510893_COVER.webp",
-      "images/2019/las-vegas-nevada-usa/0007-IMG_20190403_124257.webp",
-      "images/2019/las-vegas-nevada-usa/0008-IMG_20190403_124307.webp",
-      "images/2019/las-vegas-nevada-usa/0009-IMG_20190403_124455.webp",
-      "images/2019/las-vegas-nevada-usa/0010-MVIMG_20190403_130916.webp",
-      "images/2019/las-vegas-nevada-usa/0011-QVZmRnlHTE95RjFMLTJCYw.webp",
-      "images/2019/las-vegas-nevada-usa/0012-00100dPORTRAIT_00100_BURST20190403152849850_COVER.webp",
-      "images/2019/las-vegas-nevada-usa/0013-QVZlOTNkdUphLWRGc1hqZA.webp",
-      "images/2019/las-vegas-nevada-usa/0014-QVZlVHJXYU10MU56UUEwSQ.webp"
+      "images/2019/las-vegas-nevada-usa/0008-IMG_20190403_124257.webp",
+      "images/2019/las-vegas-nevada-usa/0009-IMG_20190403_124307.webp",
+      "images/2019/las-vegas-nevada-usa/0010-IMG_20190403_124455.webp",
+      "images/2019/las-vegas-nevada-usa/0011-MVIMG_20190403_130916.webp",
+      "images/2019/las-vegas-nevada-usa/0012-QVZmRnlHTE95RjFMLTJCYw.webp",
+      "images/2019/las-vegas-nevada-usa/0013-00100dPORTRAIT_00100_BURST20190403152849850_COVER.webp",
+      "images/2019/las-vegas-nevada-usa/0014-QVZlOTNkdUphLWRGc1hqZA.webp",
+      "images/2019/las-vegas-nevada-usa/0015-QVZlVHJXYU10MU56UUEwSQ.webp"
     ]
   },
   {
@@ -654,7 +655,10 @@
       "images/2019/jonesborough-tennessee-usa/0002-IMG_0325.webp",
       "images/2019/jonesborough-tennessee-usa/0003-IMG_0330.webp",
       "images/2019/jonesborough-tennessee-usa/0004-IMG_0331.webp",
-      "images/2019/jonesborough-tennessee-usa/0006-IMG_0369.webp"
+      "images/2019/jonesborough-tennessee-usa/0006-IMG_0369.webp",
+      "images/2019/jonesborough-tennessee-usa/0009-00100dPORTRAIT_00100_BURST20190714120443171_COVER.webp",
+      "images/2019/blue-ridge-virginia-usa/0001-IMG_0525.webp",
+      "images/2019/jonesborough-tennessee-usa/0010-IMG_20190804_101900.webp"
     ]
   },
   {
@@ -667,6 +671,50 @@
     "images": [
       "images/2019/jonesborough-tennessee-usa/0007-IMG_0411.webp",
       "images/2019/jonesborough-tennessee-usa/0008-IMG_0438.webp"
+    ]
+  },
+  {
+    "date": "2019-06-29",
+    "display": "June 29, 2019",
+    "place": "Charleston, South Carolina, USA",
+    "lat": 32.78,
+    "lng": -79.93,
+    "label": "A date in Charleston.",
+    "images": [
+      "images/2019/charleston-south-carolina-usa/0004-00100sPORTRAIT_00100_BURST20190629200341479_COVER.webp",
+      "images/2019/charleston-south-carolina-usa/0001-MVIMG_20190629_181801.webp",
+      "images/2019/charleston-south-carolina-usa/0002-IMG_20190629_182346.webp",
+      "images/2019/charleston-south-carolina-usa/0003-00100sPORTRAIT_00100_BURST20190629200327177_COVER.webp"
+    ]
+  },
+  {
+    "date": "2019-07-03",
+    "display": "July 3, 2019",
+    "place": "Pigeon Forge, Tennessee, USA",
+    "lat": 35.79,
+    "lng": -83.55,
+    "label": "S’mores and bluegrass in Pigeon Forge.",
+    "images": [
+      "images/2019/sevierville-tennessee-usa/0004-IMG_20190703_212617.webp",
+      "images/2019/sevierville-tennessee-usa/0001-MVIMG_20190703_211654.webp",
+      "images/2019/sevierville-tennessee-usa/0002-00100dPORTRAIT_00100_BURST20190703211727358_COVER.webp",
+      "images/2019/sevierville-tennessee-usa/0003-00100dPORTRAIT_00100_BURST20190703212256948_COVER.webp",
+      "images/2019/sevierville-tennessee-usa/0005-00100dPORTRAIT_00100_BURST20190703214551981_COVER.webp",
+      "images/2019/sevierville-tennessee-usa/0006-MVIMG_20190703_222319.webp"
+    ]
+  },
+  {
+    "date": "2019-07-24",
+    "display": "July 24, 2019",
+    "place": "Washington DC, USA",
+    "lat": 38.91,
+    "lng": -77.04,
+    "label": "Trouble in D.C. changes our lives.",
+    "images": [
+      "images/2019/washington-dc-usa/0004-IMG_0587.webp",
+      "images/2019/washington-dc-usa/0001-IMG_0561.webp",
+      "images/2019/washington-dc-usa/0003-IMG_0564.webp",
+      "images/2019/washington-dc-usa/0002-IMG_0563.webp"
     ]
   },
   {
