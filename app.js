@@ -1,6 +1,14 @@
 (async function () {
-  const events = await (await fetch("data/events.json")).json();
   const $ = (id) => document.getElementById(id);
+  let events;
+  try {
+    events = await (await fetch("data/events.json")).json();
+  } catch (err) {
+    // Usually a typo in a hand-edited events.json (missing comma or bracket)
+    $("start").disabled = true;
+    $("start").insertAdjacentHTML("afterend", `<p class="intro-error">Couldn’t read data/events.json: ${err.message}</p>`);
+    return;
+  }
   const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   // Unwrap longitudes so each hop takes the short way round (e.g. across the Pacific)

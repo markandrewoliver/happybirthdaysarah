@@ -98,3 +98,4 @@ button { font: inherit; cursor: pointer; }
   .thumbs img { height: 42px; width: 42px; }
   .nav { width: 38px; height: 38px; }
 }
+.intro-error { color: #b0472f; font-size: 0.85rem; margin: 1rem 0 0; }
