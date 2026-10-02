@@ -32,6 +32,7 @@
   const segments = []; // segments[i] connects event i-1 -> i
   let idx = -1;
   let busy = false;
+  const SAME_PLACE_KM = 5; // closer than this counts as the same town: no line, just a pulse
 
   const sleep = (ms) => new Promise((r) => setTimeout(r, reduceMotion ? 0 : ms));
   const km = (a, b) => map.distance(a, b) / 1000;
@@ -89,7 +90,7 @@
     }
     for (let i = 1; i <= upTo; i++) {
       markerFor(i - 1);
-      if (!segments[i] && km(pts[i - 1], pts[i]) > 25) {
+      if (!segments[i] && km(pts[i - 1], pts[i]) > SAME_PLACE_KM) {
         segments[i] = L.polyline(arc(pts[i - 1], pts[i]), { color: "#c8553d", weight: 3, opacity: 0.85, dashArray: "1 7", lineCap: "round" }).addTo(map);
       }
     }
@@ -128,13 +129,13 @@
     syncTrail(forward ? i - 1 : i);
     if (i === 0) {
       await fly(() => map.flyTo(pts[0], 5, { duration: 2.2 }), 2.2);
-    } else if (km(pts[i - 1], pts[i]) <= 25) {
+    } else if (km(pts[i - 1], pts[i]) <= SAME_PLACE_KM) {
       // Same town: settle in at a regional zoom rather than zooming out
       const z = Math.max(5, Math.min(map.getZoom(), 7));
       await fly(() => map.flyTo(pts[i], z, { duration: 1.2 }), 1.2);
     } else {
       const bounds = L.latLngBounds([pts[i - 1], pts[i]]);
-      await fly(() => map.flyToBounds(bounds, { ...pad(), maxZoom: 9, duration: 1.8 }), 1.8);
+      await fly(() => map.flyToBounds(bounds, { ...pad(), maxZoom: 11, duration: 1.8 }), 1.8);
       if (forward) await animateHop(i);
     }
     markerFor(i);
