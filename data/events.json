@@ -24,7 +24,6 @@
       "images/2013/jiamusi-heilongjiang-china/0013-QVZkY0t4UlFoV2RWWk1KUg.webp",
       "images/2013/jiamusi-heilongjiang-china/0014-QVZkbVNwRkZYUE9oVTJ5TA.webp",
       "images/2014/jiamusi-heilongjiang-china/0015-QVZjYmRRMGU5SGprYkE2SQ.webp",
-      "images/2020/johnson-city-tennessee-usa/0039-IMG_0011.webp",
       "images/2013/jiamusi-heilongjiang-china/0018-IMG_1089.webp"
     ]
   },
@@ -381,8 +380,7 @@
       "images/2018/jonesborough-tennessee-usa/0013-QVZmckxkVXF5R0NxZTlXSg.webp",
       "images/2018/jonesborough-tennessee-usa/0014-QVZjRmNMSlh1cmxqZnlfNw.webp",
       "images/2018/jonesborough-tennessee-usa/0015-QVZkYmpPbXp1U0xrcFR5Vw.webp",
-      "images/2018/jonesborough-tennessee-usa/0016-QVZlNFJNYmwtcmg0YlFwdQ.webp",
-      "images/2018/jonesborough-tennessee-usa/0017-QVZmcWxyemRPSVR3WGJJaQ.webp"
+      "images/2018/jonesborough-tennessee-usa/0016-QVZlNFJNYmwtcmg0YlFwdQ.webp"
     ]
   },
   {
@@ -425,6 +423,16 @@
       "images/2017/myrtle-beach-south-carolina-usa/0009-QVZmUUNVU3NUa0tsa0VucA.webp",
       "images/2017/myrtle-beach-south-carolina-usa/0011-QVZmYTRQM1dnR0E1RDdZMg.webp"
     ]
+  },
+  {
+    "date": "2017-12-25",
+    "display": "Dec. 2017",
+    "place": "Jonesborough, Tennessee, USA",
+    "lat": 36.29,
+    "lng": -82.47,
+    "label": "Our first Christmas in America.",
+    "images": [
+      "/images/2018/jonesborough-tennessee-usa/0017-QVZmcWxyemRPSVR3WGJJaQ.webp"
   },
   {
     "date": "2018-07-24",
@@ -632,9 +640,9 @@
   {
     "date": "2019-05-31",
     "display": "May 31, 2019",
-    "place": "North Platte, Nebraska, USA",
-    "lat": 41.12,
-    "lng": -100.77,
+    "place": "Salt Lake City, Utah, USA",
+    "lat": 40.76,
+    "lng": -111.89,
     "label": "Leaving Utah.",
     "images": [
       "images/2019/salt-lake-city-utah-usa/0041-IMG_20190531_130219.webp",
@@ -758,25 +766,6 @@
     "lng": -82.35,
     "label": "419 W. Poplar: Our first real home.",
     "images": [
-      "images/2020/johnson-city-tennessee-usa/0065-IMG_0823.webp",
-      "images/2019/johnson-city-tennessee-usa/0054-IMG_20191224_135335.webp",
-      "images/2019/johnson-city-tennessee-usa/0031-IMG_20191203_161427.webp",
-      "images/2019/johnson-city-tennessee-usa/0032-IMG_20191203_161708.webp",
-      "images/2019/johnson-city-tennessee-usa/0036-MVIMG_20191207_174546_1.webp",
-      "images/2019/johnson-city-tennessee-usa/0037-IMG_20191208_181944.webp",
-      "images/2019/johnson-city-tennessee-usa/0040-IMG_20191210_183201.webp",
-      "images/2019/johnson-city-tennessee-usa/0041-IMG_20191210_183405.webp",
-      "images/2019/johnson-city-tennessee-usa/0042-IMG_20191213_151402.webp",
-      "images/2019/johnson-city-tennessee-usa/0047-00000IMG_00000_BURST20191214173930633_COVER.webp",
-      "images/2019/johnson-city-tennessee-usa/0050-IMG_20191219_181916.webp",
-      "images/2019/johnson-city-tennessee-usa/0052-IMG_20191221_131425.webp",
-      "images/2019/johnson-city-tennessee-usa/0058-IMG_20191224_221021.webp",
-      "images/2019/johnson-city-tennessee-usa/0059-IMG_20191225_083841_1.webp",
-      "images/2020/johnson-city-tennessee-usa/0134-IMG_2028.webp",
-      "images/2020/johnson-city-tennessee-usa/0001-IMG_20200102_191333.webp",
-      "images/2020/johnson-city-tennessee-usa/0002-IMG_20200103_170243.webp",
-      "images/2020/johnson-city-tennessee-usa/0016-IMG_20200325_152809.webp",
-      "images/2020/johnson-city-tennessee-usa/0019-00100lrPORTRAIT_00100_BURST20200330110421956_COVER.webp",
       "images/2019/johnson-city-tennessee-usa/0014-IMG_20191001_170203.webp",
       "images/2019/johnson-city-tennessee-usa/0023-00100lPORTRAIT_00100_BURST20191026190356405_COVER.webp",
       "images/2019/johnson-city-tennessee-usa/0024-00100lPORTRAIT_00100_BURST20191026190557708_COVER.webp",
@@ -790,6 +779,13 @@
       "images/2019/johnson-city-tennessee-usa/0006-JPEG_20190919_182138.webp",
       "images/2019/johnson-city-tennessee-usa/0007-JPEG_20190919_182317.webp",
       "images/2019/johnson-city-tennessee-usa/0008-JPEG_20190919_183606.webp"
+      "images/2020/johnson-city-tennessee-usa/0065-IMG_0823.webp",
+      "images/2019/johnson-city-tennessee-usa/0050-IMG_20191219_181916.webp",
+      "images/2019/johnson-city-tennessee-usa/0052-IMG_20191221_131425.webp",
+      "images/2020/johnson-city-tennessee-usa/0134-IMG_2028.webp",
+      "images/2020/johnson-city-tennessee-usa/0001-IMG_20200102_191333.webp",
+      "images/2020/johnson-city-tennessee-usa/0002-IMG_20200103_170243.webp",
+      "images/2020/johnson-city-tennessee-usa/0016-IMG_20200325_152809.webp"
     ]
   },
   {
@@ -800,10 +796,10 @@
     "lng": -82.35,
     "label": "Halloween 2019",
     "images": [
+      "images/2019/johnson-city-tennessee-usa/0017-IMG_20191013_131144.webp",
       "images/2019/johnson-city-tennessee-usa/0025-MVIMG_20191031_182742.webp",
       "images/2019/johnson-city-tennessee-usa/0016-00100lPORTRAIT_00100_BURST20191012210951931_COVER.webp",
       "images/2019/johnson-city-tennessee-usa/0015-IMG_20191012_210902.webp",
-      "images/2019/johnson-city-tennessee-usa/0017-IMG_20191013_131144.webp",
       "images/2019/johnson-city-tennessee-usa/0018-IMG_20191013_145033.webp"
     ]
   },
@@ -815,10 +811,10 @@
     "lng": -82.35,
     "label": "Christmas 2019",
     "images": [
+      "images/2019/johnson-city-tennessee-usa/0039-IMG_20191210_182438.webp",
       "images/2019/johnson-city-tennessee-usa/0055-IMG_20191224_135344.webp",
       "images/2019/johnson-city-tennessee-usa/0034-IMG_20191207_130111.webp",
       "images/2019/johnson-city-tennessee-usa/0035-IMG_20191207_174546.webp",
-      "images/2019/johnson-city-tennessee-usa/0039-IMG_20191210_182438.webp",
       "images/2019/johnson-city-tennessee-usa/0038-IMG_20191210_182420.webp",
       "images/2019/johnson-city-tennessee-usa/0045-IMG_20191214_170423.webp",
       "images/2019/johnson-city-tennessee-usa/0046-00000IMG_00000_BURST20191214171124191_COVER.webp",
@@ -831,7 +827,8 @@
       "images/2020/johnson-city-tennessee-usa/0004-00100lrPORTRAIT_00100_BURST20200103170303398_COVER.webp",
       "images/2020/johnson-city-tennessee-usa/0005-00100lrPORTRAIT_00100_BURST20200106145312292_COVER.webp",
       "images/2020/johnson-city-tennessee-usa/0006-IMG_20200108_111719.webp",
-      "images/2020/johnson-city-tennessee-usa/0007-00100lrPORTRAIT_00100_BURST20200216184014538_COVER.webp"
+      "images/2020/johnson-city-tennessee-usa/0007-00100lrPORTRAIT_00100_BURST20200216184014538_COVER.webp",
+      "images/2019/johnson-city-tennessee-usa/0059-IMG_20191225_083841_1.webp"
     ]
   },
   {
@@ -1012,7 +1009,7 @@
     "place": "Winchester, Virginia, USA",
     "lat": 39.19,
     "lng": -78.16,
-    "label": "Winchester, Virginia.",
+    "label": "The start of our trip to Maine.",
     "images": [
       "images/2020/winchester-virginia-usa/0001-IMG_1182.webp",
       "images/2020/winchester-virginia-usa/0002-IMG_1185.webp"
