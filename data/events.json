@@ -642,6 +642,34 @@
     ]
   },
   {
+    "date": "2019-06-01",
+    "display": "June 1, 2019",
+    "place": "Jonesborough, Tennessee, USA",
+    "lat": 36.29,
+    "lng": -82.47,
+    "label": "A brief stop in Jonesborough before we fly to Shanghai.",
+    "images": [
+      "images/2019/jonesborough-tennessee-usa/0005-IMG_0338.webp",
+      "images/2019/jonesborough-tennessee-usa/0001-IMG_0283.webp",
+      "images/2019/jonesborough-tennessee-usa/0002-IMG_0325.webp",
+      "images/2019/jonesborough-tennessee-usa/0003-IMG_0330.webp",
+      "images/2019/jonesborough-tennessee-usa/0004-IMG_0331.webp",
+      "images/2019/jonesborough-tennessee-usa/0006-IMG_0369.webp"
+    ]
+  },
+  {
+    "date": "2019-06-16",
+    "display": "June 16, 2019",
+    "place": "Kingsport, Tennessee, USA",
+    "lat": 36.55,
+    "lng": -82.56,
+    "label": "Silas gets baptized.",
+    "images": [
+      "images/2019/jonesborough-tennessee-usa/0007-IMG_0411.webp",
+      "images/2019/jonesborough-tennessee-usa/0008-IMG_0438.webp"
+    ]
+  },
+  {
     "date": "2019-09-21",
     "display": "September 2019",
     "place": "Jonesborough, Tennessee, USA",
