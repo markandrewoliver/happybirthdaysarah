@@ -600,6 +600,48 @@
     ]
   },
   {
+    "date": "2019-05-22",
+    "display": "May 22, 2019",
+    "place": "Salt Lake City, Utah, USA",
+    "lat": 40.76,
+    "lng": -111.89,
+    "label": "Turning 7 in Utah.",
+    "images": [
+      "images/2019/salt-lake-city-utah-usa/0036-IMG_0034.webp",
+      "images/2019/salt-lake-city-utah-usa/0021-IMG_20190406_121318.webp",
+      "images/2019/salt-lake-city-utah-usa/0022-IMG_20190413_113515.webp",
+      "images/2019/salt-lake-city-utah-usa/0023-00100dPORTRAIT_00100_BURST20190413173714260_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0024-IMG_20190418_095443.webp",
+      "images/2019/salt-lake-city-utah-usa/0025-IMG_20190421_155934.webp",
+      "images/2019/salt-lake-city-utah-usa/0026-IMG_20190421_192233.webp",
+      "images/2019/salt-lake-city-utah-usa/0027-00100dPORTRAIT_00100_BURST20190421192307948_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0028-00100dPORTRAIT_00100_BURST20190421192510873_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0029-IMG_20190424_171357.webp",
+      "images/2019/salt-lake-city-utah-usa/0030-00100dPORTRAIT_00100_BURST20190424171451544_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0031-00100dPORTRAIT_00100_BURST20190508155547874_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0032-00100dPORTRAIT_00100_BURST20190510075059970_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0033-00100dPORTRAIT_00100_BURST20190514173624870_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0034-00100sPORTRAIT_00100_BURST20190514173840273_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0035-00100sPORTRAIT_00100_BURST20190517192105577_COVER.webp",
+      "images/2019/salt-lake-city-utah-usa/0037-IMG_0039.webp",
+      "images/2019/salt-lake-city-utah-usa/0038-IMG_0170.webp",
+      "images/2019/salt-lake-city-utah-usa/0039-IMG_0207.webp"
+    ]
+  },
+  {
+    "date": "2019-05-31",
+    "display": "May 31, 2019",
+    "place": "North Platte, Nebraska, USA",
+    "lat": 41.12,
+    "lng": -100.77,
+    "label": "Leaving Utah.",
+    "images": [
+      "images/2019/salt-lake-city-utah-usa/0041-IMG_20190531_130219.webp",
+      "images/2019/salt-lake-city-utah-usa/0040-IMG_20190530_175725.webp",
+      "images/2019/le-roy-illinois-usa/0001-IMG_0246.webp"
+    ]
+  },
+  {
     "date": "2019-09-21",
     "display": "September 2019",
     "place": "Jonesborough, Tennessee, USA",
