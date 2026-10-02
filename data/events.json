@@ -1368,7 +1368,7 @@
       "images/2022/nashville-tennessee-usa/0003-PXL_20220311_035346161.webp",
       "images/2022/nashville-tennessee-usa/0004-PXL_20220311_044230949.webp",
       "images/2022/johnson-city-tennessee-usa/0003-PXL_20220313_184617318.webp",
-      "images/2022/elizabethton-tennessee-usa/0023-IMG_7216.webp"
+      "images/2022/elizabethton-tennessee-usa/0024-IMG_7216.webp"
     ]
   },
   {
@@ -1393,12 +1393,12 @@
     "lng": -82.21,
     "label": "170 Joy Dr: Our forever home.",
     "images": [
-      "images/2022/elizabethton-tennessee-usa/0040-QVZkbnNpbnJpUGZBYTRWQw.webp",
-      "images/2022/elizabethton-tennessee-usa/0033-IMG_7887.webp",
-      "images/2022/elizabethton-tennessee-usa/0034-QVZlWDVuV1B3NU5RUDUzNA.webp",
-      "images/2022/elizabethton-tennessee-usa/0037-IMG_7926.webp",
-      "images/2022/elizabethton-tennessee-usa/0039-IMG_7933.webp",
-      "images/2022/elizabethton-tennessee-usa/0043-QVZkRjJtLWpiZ2tRLVIxMw.webp",
+      "images/2022/elizabethton-tennessee-usa/0041-QVZkbnNpbnJpUGZBYTRWQw.webp",
+      "images/2022/elizabethton-tennessee-usa/0034-IMG_7887.webp",
+      "images/2022/elizabethton-tennessee-usa/0035-QVZlWDVuV1B3NU5RUDUzNA.webp",
+      "images/2022/elizabethton-tennessee-usa/0038-IMG_7926.webp",
+      "images/2022/elizabethton-tennessee-usa/0040-IMG_7933.webp",
+      "images/2022/elizabethton-tennessee-usa/0044-QVZkRjJtLWpiZ2tRLVIxMw.webp",
       "images/2023/elizabethton-tennessee-usa/0001-IMG_0697.webp",
       "images/2023/elizabethton-tennessee-usa/0007-IMG_1987.webp",
       "images/2023/elizabethton-tennessee-usa/0010-IMG_2150.webp",
@@ -1430,8 +1430,19 @@
       "images/2022/elizabethton-tennessee-usa/0019-IMG_7093.webp",
       "images/2022/elizabethton-tennessee-usa/0020-IMG_7132.webp",
       "images/2022/elizabethton-tennessee-usa/0021-PXL_20220709_010110355.PORTRAIT.webp",
-      "images/2022/elizabethton-tennessee-usa/0024-PXL_20220724_004356056.webp",
-      "images/2022/elizabethton-tennessee-usa/0025-IMG_7254.webp"
+      "images/2022/elizabethton-tennessee-usa/0025-PXL_20220724_004356056.webp",
+      "images/2022/elizabethton-tennessee-usa/0026-IMG_7254.webp"
+    ]
+  },
+  {
+    "date": "2022-07",
+    "display": "July 2022",
+    "place": "Johnson City, Tennessee, USA",
+    "lat": 36.31,
+    "lng": -82.35,
+    "label": "Silas starts University School.",
+    "images": [
+      "images/2022/elizabethton-tennessee-usa/0023-IMG_7208.webp"
     ]
   },
   {
@@ -1442,9 +1453,9 @@
     "lng": -82.21,
     "label": "We buy a Tesla!",
     "images": [
-      "images/2022/elizabethton-tennessee-usa/0027-IMG_7283.webp",
-      "images/2022/elizabethton-tennessee-usa/0026-IMG_7279.webp",
-      "images/2022/elizabethton-tennessee-usa/0028-IMG_7288.webp"
+      "images/2022/elizabethton-tennessee-usa/0028-IMG_7283.webp",
+      "images/2022/elizabethton-tennessee-usa/0027-IMG_7279.webp",
+      "images/2022/elizabethton-tennessee-usa/0029-IMG_7288.webp"
     ]
   },
   {
@@ -1491,20 +1502,20 @@
       "images/2023/elizabethton-tennessee-usa/0038-PXL_20231225_133311775.webp",
       "images/2023/elizabethton-tennessee-usa/0039-PXL_20231225_140026838.PORTRAIT.webp",
       "images/2022/elizabethton-tennessee-usa/0005-FB_IMG_1670087962921.webp",
-      "images/2022/elizabethton-tennessee-usa/0029-IMG_7845.webp",
-      "images/2022/elizabethton-tennessee-usa/0030-IMG_7864.webp",
-      "images/2022/elizabethton-tennessee-usa/0031-IMG_7867.webp",
-      "images/2022/elizabethton-tennessee-usa/0032-IMG_7874.webp",
-      "images/2022/elizabethton-tennessee-usa/0036-PXL_20221123_232108256.webp",
-      "images/2022/elizabethton-tennessee-usa/0038-IMG_7932.webp",
-      "images/2022/elizabethton-tennessee-usa/0041-PXL_20221126_140909296.PORTRAIT.webp",
-      "images/2022/elizabethton-tennessee-usa/0042-QVZlbWtzeHVKWVBySDVlQg.webp",
-      "images/2022/elizabethton-tennessee-usa/0044-QVZmZU41c2ZsSDJval8xQw.webp",
-      "images/2022/elizabethton-tennessee-usa/0045-PXL_20221210_235540965_exported_961_1670716656632~2.webp",
-      "images/2022/elizabethton-tennessee-usa/0046-IMG_8256.webp",
-      "images/2022/elizabethton-tennessee-usa/0047-IMG_8291.webp",
-      "images/2022/elizabethton-tennessee-usa/0048-PXL_20221228_174221395.PORTRAIT.webp",
-      "images/2022/elizabethton-tennessee-usa/0049-PXL_20221228_175150591.webp",
+      "images/2022/elizabethton-tennessee-usa/0030-IMG_7845.webp",
+      "images/2022/elizabethton-tennessee-usa/0031-IMG_7864.webp",
+      "images/2022/elizabethton-tennessee-usa/0032-IMG_7867.webp",
+      "images/2022/elizabethton-tennessee-usa/0033-IMG_7874.webp",
+      "images/2022/elizabethton-tennessee-usa/0037-PXL_20221123_232108256.webp",
+      "images/2022/elizabethton-tennessee-usa/0039-IMG_7932.webp",
+      "images/2022/elizabethton-tennessee-usa/0042-PXL_20221126_140909296.PORTRAIT.webp",
+      "images/2022/elizabethton-tennessee-usa/0043-QVZlbWtzeHVKWVBySDVlQg.webp",
+      "images/2022/elizabethton-tennessee-usa/0045-QVZmZU41c2ZsSDJval8xQw.webp",
+      "images/2022/elizabethton-tennessee-usa/0046-PXL_20221210_235540965_exported_961_1670716656632~2.webp",
+      "images/2022/elizabethton-tennessee-usa/0047-IMG_8256.webp",
+      "images/2022/elizabethton-tennessee-usa/0048-IMG_8291.webp",
+      "images/2022/elizabethton-tennessee-usa/0049-PXL_20221228_174221395.PORTRAIT.webp",
+      "images/2022/elizabethton-tennessee-usa/0050-PXL_20221228_175150591.webp",
       "images/2022/sevierville-tennessee-usa/0001-PXL_20221229_191046175.webp",
       "images/2022/sevierville-tennessee-usa/0002-PXL_20221230_011700946~4.webp"
     ]
